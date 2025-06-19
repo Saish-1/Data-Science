@@ -1,1 +1,1 @@
-# Basic Machine Learning algorithms and statiistics
+# Basic Machine Learning algorithms and statistics
